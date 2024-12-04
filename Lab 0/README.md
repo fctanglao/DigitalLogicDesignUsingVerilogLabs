@@ -3,7 +3,7 @@
 ## Part 1
 ### Design for the 1-bit 2x1 mux
 ### ![Design for the 1-bit 2x1 mux](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%200/Part%201/mux_2x1_simple%20design.png)
-### You can find the code for the 1-bit 2x1 mux [*here*]https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%200/Part%201/mux_2x1_simple.v)
+### You can find the code for the 1-bit 2x1 mux [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%200/Part%201/mux_2x1_simple.v)
 
 ### Design for the 3-bit 2x1 mux
 ### ![Design for the 3-bit 2x1 mux](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%200/Part%201/mux_2x1_3bit%20design.png)
