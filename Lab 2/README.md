@@ -8,7 +8,7 @@
 ### You can find the code for bin2bcd [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%202/Part%201/bin2bcd.v)
 
 ### Testbench for double dabble
-### ![Testbench for double dabble](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%202/Part%201/bin2bcd%20testbench.png)
+### ![Testbench for bin2bcd](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%202/Part%201/bin2bcd%20testbench.png)
 ### You can find the code for bin2bcd_tb [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%202/Part%201/bin2bcd_tb.v)
 
 ## Part 2
