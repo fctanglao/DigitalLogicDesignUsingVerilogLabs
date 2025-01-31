@@ -14,9 +14,9 @@
 ### You can find the code for csa_multiplier [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%201/Part%201/csa_multiplier.v)
 
 ### Testbench for 0x10, 5x5, 9x5, 12x13, and 15x10 in binary
-### ![Testbench in binary](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%201/Part%201/multiplier%20binary%20testbench.png)
+### ![Testbench in binary](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%201/Part%201/csa_multiplier%20binary%20testbench.png)
 ### Testbench for 0x10, 5x5, 9x5, 12x13, and 15x10 in decimal
-### ![Testbench in decimal](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%201/Part%201/multiplier%20decimal%20testbench.png)
+### ![Testbench in decimal](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%201/Part%201/csa_multiplier%20decimal%20testbench.png)
 ### You can find the code for csa_multiplier_tb [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%201/Part%201/csa_multiplier_tb.v)
 
 ## Part 2
