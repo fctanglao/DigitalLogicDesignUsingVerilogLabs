@@ -4,7 +4,7 @@
 ### You can find the code for dual_sequence_detector [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%207/Part%201/dual_sequence_detector.v)
 
 ### Testbench for dual_sequence_detector
-### ![Testbench for dual_sequence_detector](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%207/Part%201/dual_sequence_detector%20testbench.png)
+### ![Testbench dual_sequence_detector](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%207/Part%201/dual_sequence_detector%20testbench.png)
 ### You can find the code for dual_sequence_detector_tb [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%207/Part%201/dual_sequence_detector_tb.v)
 
 ### You can find the code for even_odd_conseq00 [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%207/Part%201/even_odd_conseq00.v)
