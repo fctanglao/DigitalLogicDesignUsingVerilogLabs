@@ -13,4 +13,4 @@
 ### Block diagram for the 3-bit 4x1 mux
 ### ![Block diagram](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%200/Part%202/mux_4x1_3bit%20block%20diagram.png)
 ### You can find the code for the 3-bit 4x1 mux [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%200/Part%202/mux_4x1_3bit.v)
-### You can find the code for the constraint file for the 3-bit 4x1 mux [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%200/Part%202/Nexys-A7-100T-Master.xdc)
+### You can find the constraint file for the 3-bit 4x1 mux [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%200/Part%202/Nexys-A7-100T-Master.xdc)
