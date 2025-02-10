@@ -7,7 +7,7 @@
 ### You can find the code for reg_file_application [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%204/Part%201/reg_file_application.v)
 ### You can find the constraint file for reg_file_application [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%204/Part%201/Nexys-A7-100T-Master.xdc)
 
-### Testbench for the generic register
+### Generic register testbench
 ### ![Testbench](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%204/Part%201/reg_file%20testbench.png)
 ### You can find the code for reg_file_tb [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%204/Part%201/reg_file_tb.v)
 
