@@ -1,13 +1,13 @@
 # Lab 4 - Registers by Jack Gaon and Francis Tanglao
 
 ## Part 1
-### Generic register block diagram
+### Block diagram for the generic register 
 ### ![Block diagram](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%204/Part%201/generic%20register%20block%20diagram.png)
 ### You can find the code for reg_file [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%204/Part%201/reg_file.v)
 ### You can find the code for reg_file_application [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%204/Part%201/reg_file_application.v)
 ### You can find the constraint file for reg_file_application [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%204/Part%201/Nexys-A7-100T-Master.xdc)
 
-### Generic register testbench
+### Testbench for te generic register
 ### ![Testbench](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%204/Part%201/reg_file%20testbench.png)
 ### You can find the code for reg_file_tb [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%204/Part%201/reg_file_tb.v)
 
