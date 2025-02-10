@@ -2,7 +2,7 @@
 
 ## Part 1
 ### Generic register block diagram
-### ![Generic register block diagram](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%204/Part%201/generic%20register%20block%20diagram.png)
+### ![Block diagram](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%204/Part%201/generic%20register%20block%20diagram.png)
 ### You can find the code for reg_file [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%204/Part%201/reg_file.v)
 ### You can find the code for reg_file_application [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%204/Part%201/reg_file_application.v)
 ### You can find the constraint file for reg_file_application [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%204/Part%201/Nexys-A7-100T-Master.xdc)
