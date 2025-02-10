@@ -15,7 +15,7 @@
 ### Note: We imported the code for simple_calc and all its dependencies for this lab. You can find that code in the repository for Lab 1
 
 ### BCD calculator block diagram
-### ![BCD calculator block diagram](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%202/Part%202/bcd%20calculator%20block%20diagram.png)
+### ![Block diagram](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%202/Part%202/bcd%20calculator%20block%20diagram.png)
 
 ### You can find the code for bcd_calc_signed [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%202/Part%202/bcd_calc_signed.v)
 ### You can find the code for the constraint file for bcd_calc_signed [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%202/Part%202/Nexys-A7-100T-Master.xdc)
