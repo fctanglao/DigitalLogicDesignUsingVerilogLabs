@@ -1,11 +1,11 @@
 # Lab 1 - Building Multiplier and Simple Calculator by Jack Gaon and Francis Tanglao
 
 ## Part 1 
-### Tracing the multiplications 14x11
-### ![Tracing](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%201/Part%201/14x11%20multiplier%20breakdown.png)
+### Breaking down the multiplications 14x11
+### ![Breakdown](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%201/Part%201/14x11%20multiplier%20breakdown.png)
 
-### Tracing the multiplications 9x5
-### ![Tracing](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%201/Part%201/9x5%20multiplier%20breakdown.png)
+### Breaking down the multiplications 9x5
+### ![Breakdown](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%201/Part%201/9x5%20multiplier%20breakdown.png)
 
 ### You can find the code for mq_4bit [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%201/Part%201/mq_4bit.v)
 
