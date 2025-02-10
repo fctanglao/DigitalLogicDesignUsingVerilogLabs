@@ -23,8 +23,8 @@
 ### Note: We imported the code for mux_2x1_simple for this lab. You can find that code in the repository for Lab 0
 ### You can find the code for mux_2x1_8bit [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%201/Part%202/mux_2x1_8bit.v)
 
-### Calculator block diagram
-### ![Calculator block diagram](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%201/Part%202/calculator%20block%20diagram.png)
+### Block diagram for the simple calculator
+### ![Block diagram](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%201/Part%202/calculator%20block%20diagram.png)
 
 ### You can find the code for simple_calc [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%201/Part%202/simple_calc.v)
 ### You can find the code for the constraint file for simple_calc [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%201/Part%202/Nexys-A7-100T-Master.xdc)
