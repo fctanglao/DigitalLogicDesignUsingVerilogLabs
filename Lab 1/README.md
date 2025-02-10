@@ -27,4 +27,4 @@
 ### ![Block diagram](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%201/Part%202/simple%20calculator%20block%20diagram.png)
 
 ### You can find the code for simple_calc [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%201/Part%202/simple_calc.v)
-### You can find the code for the constraint file for simple_calc [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%201/Part%202/Nexys-A7-100T-Master.xdc)
+### You can find the constraint file for simple_calc [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%201/Part%202/Nexys-A7-100T-Master.xdc)
