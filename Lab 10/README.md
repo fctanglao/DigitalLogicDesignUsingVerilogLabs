@@ -2,7 +2,7 @@
 
 ## Part 1
 ### State diagram for the morse decoder
-### ![State diagram](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%2010/Part%201/state%20diagram%20for%20morse%20decoder.png)
+### ![State diagram](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%2010/Part%201/morse%20decoder%20state%20diagram.png)
 ### You can find the code for the morse decoder [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%2010/Part%201/morse_decoder.v)
 ### Testbench for the morse decoder
 ### ![Testbench](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%2010/Part%201/morse_decoder%20testbench.png)
