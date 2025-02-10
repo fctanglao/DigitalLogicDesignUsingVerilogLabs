@@ -9,4 +9,4 @@
 
 ## Part 3
 ### You can find the code for counter_application [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%205/Part%203/counter_application.v)
-### You can find the constraint file [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%205/Part%203/Nexys-A7-100T-Master.xdc)
+### You can find the constraint file for counter_application [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%205/Part%203/Nexys-A7-100T-Master.xdc)
