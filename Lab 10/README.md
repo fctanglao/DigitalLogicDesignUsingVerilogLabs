@@ -14,4 +14,4 @@
 ### Note: The block diagram came from the lab instructions and did not include a seven-segment display that should be connected to the shift register
 ### You can find the code for the morse decoder application [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%2010/Part%202/morse_decoder_application.v)
 ### Note: We created [*shift_register*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%2010/Part%202/shift_register.v) so that our morse decoder would work as seen on the block diagram
-### You can find the constraint file for morse_decoder_application [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%2010/Part%202/Nexys-A7-100T-Master.xdc)
+### You can find the constraint file for the morse decoder application [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%2010/Part%202/Nexys-A7-100T-Master.xdc)
