@@ -2,6 +2,8 @@
 
 ## Lab Guides
 ### Here are all the [*lab guides*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/tree/main/Lab%20Guides) provided by Dr. Anas Salah Eddin
+
+## Labs
 ### Lab [*0*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/tree/main/Lab%200): Switches, LEDs, and Multiplexers
 ### Lab [*1*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/tree/main/Lab%201): Simple Calculator
 ### Labs [*2*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/tree/main/Lab%202) & [*3*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/tree/main/Lab%203): Combinational-Circuit Building Blocks
