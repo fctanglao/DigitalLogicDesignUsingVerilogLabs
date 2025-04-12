@@ -22,4 +22,4 @@
 - ### Lab [*12*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%20Guides/Lab%2012%20-%20Morse%20Code%20Terminal.pdf): Morse Code Terminal
 
 ## Final Project
-- ### [*Final Project*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/tree/main/Final%20Project): Tic Tac Toe
+- ### [*Final Project*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/tree/main/Final%20Project): Tic-Tac-Toe
