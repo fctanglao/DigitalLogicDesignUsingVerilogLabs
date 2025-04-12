@@ -20,3 +20,6 @@
 - ### Lab [*10*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/tree/main/Lab%2010): Morse Decoder
 - ### Lab [*11*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/tree/main/Lab%2011): Morse Code to ASCII
 - ### Lab [*12*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%20Guides/Lab%2012%20-%20Morse%20Code%20Terminal.pdf): Morse Code Terminal
+
+## Final Project
+- ### [*Final Project*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/tree/main/Final%20Project): Tic Tac Toe
