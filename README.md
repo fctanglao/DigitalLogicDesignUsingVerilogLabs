@@ -1,7 +1,7 @@
 # Digital Logic Design Using Verilog Labs
 
 ## Lab Guides
-- ### Here are all the [*lab guides*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/tree/main/Lab%20Guides) provided by Dr. Anas Salah Eddin
+### Here are all the [*lab guides*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/tree/main/Lab%20Guides) provided by Dr. Anas Salah Eddin
 - ### Lab 8 [*instruction video*](https://www.youtube.com/watch?v=njegx9eWd7w)
 - ### Lab 9 [*instruction video*](https://www.youtube.com/watch?v=zQhMHgk4W3U)
 - ### Lab 10 [*instruction video*](https://www.youtube.com/watch?v=AN1Eva2uNnc)
