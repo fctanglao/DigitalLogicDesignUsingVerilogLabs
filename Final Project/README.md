@@ -15,8 +15,8 @@
 - ### Note: The baud rate was set to 9600 in the UART module provided by Dr. Eddin which can be found [*here*](https://github.com/aseddin/3300L_lab_guides/tree/main/lab12/starter%20code)
 
 ## Physical FPGA Demo 
-- ### ![demo](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Final%20Project/TicTacToeDemo.gif)
+### ![demo](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Final%20Project/TicTacToeDemo.gif)
 
 ## Serial Terminal Demo 
-- ### ![demo](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Final%20Project/TeraTermSerial.gif)
+### ![demo](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Final%20Project/TeraTermSerial.gif)
 
