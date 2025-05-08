@@ -19,7 +19,7 @@
 - ### Labs [*8*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/tree/main/Lab%208) & [*9*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/tree/main/Lab%209): Finite State Machine Applications
 - ### Lab [*10*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/tree/main/Lab%2010): Morse Decoder
 - ### Lab [*11*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/tree/main/Lab%2011): Morse Code to ASCII
-- ### Lab *12*: Morse Code Terminal
+- ### Lab *12*: Morse Code Terminal (Was Never Done)
 
 ## Final Project
 - ### Spring 2024 [*Final Project*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/tree/main/Final%20Project): Tic-Tac-Toe
