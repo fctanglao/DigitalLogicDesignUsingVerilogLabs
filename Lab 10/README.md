@@ -10,7 +10,7 @@
 ### You can find the code for the morse decoder testbench [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%2010/Part%201/morse_decoder_tb.v)
 
 ## Part 2
-### Morse decoder block diagram
+### Block diagram for the morse decoder
 ### ![Block diagram](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%2010/Part%202/morse%20decoder%20block%20diagram.png)
 ### Note: The block diagram came from the lab instructions and did not include a seven-segment display that should be connected to the shift register
 ### You can find the code for the morse decoder application [*here*](https://github.com/fctanglao/DigitalLogicDesignUsingVerilogLabs/blob/main/Lab%2010/Part%202/morse_decoder_application.v)
